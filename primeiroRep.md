@@ -1,4 +1,1 @@
-Meu primeiro repositório.
-
-Olá, bem vindo ao meu primeiro repositorio.
-Estou aprendendo sobre Git e GitHub!
+Este aqui é meu primeiro arquivo "commitado" do meu repositório local.
