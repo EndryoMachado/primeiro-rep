@@ -1,3 +1,1 @@
-#Meu primeiro repositório.
-Olá, bem vindo ao meu primeiro repositorio.
-Estou aprendendo sobre Git e GitHub!
+Testanto git pull e possiveis conflitos com o GitHub
